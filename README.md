@@ -1,4 +1,5 @@
 # Use-IWebHostEnvironment-In-Static-Class
+##Please read the license
 with this method you can use IWebHostEnvironment in static class
 
 
