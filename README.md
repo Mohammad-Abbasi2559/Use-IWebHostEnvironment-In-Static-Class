@@ -1,12 +1,15 @@
 # Use-IWebHostEnvironment-In-Static-Class
 with this method you can use IWebHostEnvironment in static class
 
-```
+
 use this refrences
+
+```
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
-
+```
+```
 next writh this method
 public static IWebHostEnvironment WebEnv()
 {
