@@ -2,7 +2,7 @@
 with this method you can use IWebHostEnvironment in static class
 
 
-use this refrences
+use this references
 
 ```
 using Microsoft.AspNetCore.Hosting;
@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 ```
 
-next writh this method
+next write this method
 ```
 public static IWebHostEnvironment WebEnv()
 {
