@@ -9,8 +9,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 ```
-```
+
 next writh this method
+```
 public static IWebHostEnvironment WebEnv()
 {
      var _accessor = new HttpContextAccessor();
