@@ -19,5 +19,7 @@ public static IWebHostEnvironment WebEnv()
      return _accessor.HttpContext.RequestServices.GetRequiredService<IWebHostEnvironment>();
 }
 ```
-thanks from
+## Please Read LICENSE
+
+### thanks from
 https://stackoverflow.com/questions/64482399/how-to-use-iwebhostenvironment-inside-static-class-in-asp-core
